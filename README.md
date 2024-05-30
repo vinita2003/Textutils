@@ -1,5 +1,5 @@
 <div align="center"><h1>Textutils</h1>
-
+This React project, Textutils2, includes a navbar with options for toggling between light and dark modes. It features a text form for input and an about page. Users can enter text for analysis and receive alerts for actions such as mode switching. The project utilizes React Router for navigation and state management using React's useState hook.The main feature of the app is a text form where users can input text for analysis.Upon input, users can perform various operations like converting text to uppercase, lowercase, capitalizing sentences, and removing extra spaces.
 
 
 # Home Page
